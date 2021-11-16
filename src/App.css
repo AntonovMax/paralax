@@ -1,0 +1,6 @@
+.App {
+  height: 1500px;
+  width: 1500px;
+  background: linear-gradient(rgb(17, 17, 22), rgb(114, 23, 39));
+  overflow-x: hidden;
+}
